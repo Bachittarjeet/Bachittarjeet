@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- Contribution Graph-->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=bachittarjeet)
