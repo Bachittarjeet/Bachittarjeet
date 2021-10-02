@@ -2,7 +2,7 @@
 
 <!-- Contribution Graph-->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=phondani0.phondani0)
+![](https://visitor-badge.laobi.icu/badge?page_id=bachittarjeet)
 </br>
 
 ## 🐙 **Github Stats**
