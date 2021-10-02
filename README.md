@@ -2,7 +2,7 @@
 
 <!-- Contribution Graph-->
 
-![](https://activity-graph.herokuapp.com/graph?username=bachittarjeet&theme=react-dark&hide_border=true&area=true)
+![](https://visitor-badge.laobi.icu/badge?page_id=phondani0.phondani0)
 </br>
 
 ## 🐙 **Github Stats**
