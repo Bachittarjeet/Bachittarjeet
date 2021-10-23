@@ -1,6 +1,8 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=bachittarjeet)
+</br>
 <!-- Contribution Graph-->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=bachittarjeet)
+![](https://activity-graph.herokuapp.com/graph?username=bachittarjeet&theme=react-dark&hide_border=true&area=true)
 </br>
 
 ## 🐙 **Github Stats**
