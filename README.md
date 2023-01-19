@@ -15,4 +15,5 @@
 <p align='center'>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachittarjeet&show_icons=true&theme=gotham&layout=compact" alt="bachittarjeet" />
 </p>
+[![An image of @bachittarjeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bachittarjeet)](https://holopin.io/@bachittarjeet)
 
